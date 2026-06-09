@@ -1,5 +1,7 @@
-# Khotic
 
+<h1>Khotic</h1>
+
+<pre>
                             .-'''-.                     _..._     
                            '   _    \                .-'_..._''.  
      .           .       /   /` '.   \       .--.  .' .'      '.\ 
@@ -13,8 +15,9 @@
  |   |  \  \   | |     | |             |  |  |  |'.   `-.______ /  
  '    \  \  \  | '.    | '.            |   /                  
 '------'  '---''---'   '---'           `'-'                       
+</pre>
 
-## About Me
-I’m Khotic, and this is my portfolio project showcasing my Pellet Pursuit project.
+<h2>About Me</h2>
+<p>I’m Khotic, and this is my portfolio project.</p>
 
-"My mantra: Progress Over Perfection."
+<p><b>"My mantra: keep building, keep improving."</b></p>
