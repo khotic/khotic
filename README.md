@@ -1,5 +1,5 @@
 
-<h1>Khotic</h1>
+<h1>Sebi</h1>
 
 <pre>
                             .-'''-.                     _..._     
@@ -18,6 +18,6 @@
 </pre>
 
 <h2>About Me</h2>
-<p>I’m Khotic, and this is my portfolio project.</p>
+<p>I’m Khotic, and this is my portfolio project: "Pellet Pursuit".</p>
 
-<p><b>"My mantra: keep building, keep improving."</b></p>
+<p><b>"My mantra: Progress Over Perfection."</b></p>
