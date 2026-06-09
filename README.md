@@ -1,9 +1,12 @@
-##  _  ___           _   _
-| |/ / |__   ___ | |_(_) ___
-| ' /| '_ \ / _ \| __| |/ __|
-| . \| | | | (_) | |_| | (__
-|_|\_\_| |_|\___/ \__|_|\___|
+```text
+ __   ___  __    __     ______  ___________  __     ______   
+|/"| /  ")/" |  | "\   /    " \("     _   ")|" \   /" _  "\  
+(: |/   /(:  (__)  :) // ____  \)__/  \\__/ ||  | (: ( \___) 
+|    __/  \/      \/ /  /    ) :)  \\_ /    |:  |  \/ \      
+(// _  \  //  __  \\(: (____/ //   |.  |    |.  |  //  \ _   
+|: | \  \(:  (  )  :)\        /    \:  |    /\  |\(:   _) \  
+(__|  \__)\__|  |__/  \"_____/      \__|   (__\_|_)\_______) 
+                                                             
+```
 
-My name is Sebastian, my project is Pellet Pursuit,
-a take on the game pac-man made with java-fx,
-and my mantra is progress over perfection.
+My name is Sebastian, my project is Pellet Pursuit, a take on the game Pac-Man made with JavaFX, and my mantra is "Progress over perfection."
